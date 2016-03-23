@@ -1208,6 +1208,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [phoenix-snippets](https://github.com/phoenixframework-Brazil/phoenix-snippets) - Phoenix Snippets for Atom.
 * [TextMate](https://github.com/elixir-lang/elixir-tmbundle) - Elixir syntax highlighting for TextMate.
 * [vim-elixir](https://github.com/elixir-lang/vim-elixir) - Vim configuration files for Elixir.
+* [elixir.nvim](https://github.com/awetzel/elixir.nvim) - Elixir deep integration into nvim (neovim).
 * [vim-ex_test](https://github.com/moofish32/vim-ex_test) - Vim test runner based on Thoughtbots vim-rspec.
 
 ## Other Awesome Lists
